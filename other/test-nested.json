@@ -1,0 +1,13 @@
+{
+  "days": "days",
+  "race_rules": "Race Rules",
+  "races": [
+    {
+      "title": "mBit Race",
+      "slug": "mbit-races",
+      "image": "mBit-Races_Tournament.jpg",
+      "min_bet": "Euro 0.50",
+      "spings": "400"
+    }
+  ]
+}

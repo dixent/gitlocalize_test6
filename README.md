@@ -1,1 +1,0 @@
-# gitlocalize_test6
